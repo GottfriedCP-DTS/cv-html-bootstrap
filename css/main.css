@@ -1,0 +1,22 @@
+.text-green {
+    color: green;
+}
+
+ul#bahasa {
+    list-style: none;
+}
+
+ul#bahasa li {
+    margin-bottom: 1rem;
+}
+
+.flex-container > div {
+    border: .1rem solid black;
+    margin: .1rem .2rem;
+}
+
+form#kontak {
+    width: 480px;
+    max-width: 90vw;
+    margin: 1rem 0;
+}
